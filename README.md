@@ -281,7 +281,7 @@ This saved one line of code, and implicitly prevented invoking `some_func` twice
 
 ---
 
-### ▶ Strings can be tricky sometimes
+### ▶ Strings can be tricky sometimes [Doesn't work with Python 3.9.0]
 
 <!-- Example ID: 30f1d3fc-e267-4b30-84ef-4d9e7091ac1a --->
 1\.
